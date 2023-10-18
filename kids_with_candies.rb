@@ -8,9 +8,3 @@ def kids_with_candies(candies, extra_candies)
 
     result
 end
-
-p kids_with_candies([2,3,5,1,3], 3)
-p kids_with_candies([4,2,1,1,2], 1)
-p kids_with_candies([12,1,12], 10)
-
-
